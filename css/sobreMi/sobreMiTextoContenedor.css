@@ -1,0 +1,8 @@
+.sobre__mi__texto__contenedor{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    padding: 2em;
+    width: 70%;
+}

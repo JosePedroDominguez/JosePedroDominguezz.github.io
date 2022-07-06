@@ -1,0 +1,9 @@
+.presentacion__textos{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 65%;
+    justify-content: space-around;
+    padding: 2em;
+    width: 70%;
+}

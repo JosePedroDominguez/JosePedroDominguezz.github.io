@@ -1,0 +1,23 @@
+.skills__item{
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 8px; 
+
+    
+    /*border: 4px solid #11537f8f;
+    box-shadow: 5px 5px 5px rgb(98, 98, 98);*/
+
+    width: 176px;
+    height: 174px;
+
+    
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}

@@ -1,0 +1,26 @@
+.botones{
+    margin-top: 1em;
+    color: rgb(128, 128, 128);
+
+}
+.botones__github{
+    border: none;
+    background-color: rgb(58, 124, 165);
+    width: 12em;
+    height: 3em;
+    margin-right: 1em;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(128, 128, 128);
+    
+
+}
+.botones__Demo{
+    border: none;
+    background-color: white;
+    color: rgb(128, 128, 128);
+    border: 2px solid rgb(7, 7, 15);
+    width: 12em;
+    height: 3em;
+    margin-right: 1em; 
+    font-family: 'Poppins', sans-serif;
+}

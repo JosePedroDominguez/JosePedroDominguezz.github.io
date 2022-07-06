@@ -1,0 +1,10 @@
+.formaciones{
+    align-items: center;
+    background-color: #bbbbbb;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-around;
+    width: 100%;
+
+}

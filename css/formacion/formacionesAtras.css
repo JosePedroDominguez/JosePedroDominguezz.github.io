@@ -1,0 +1,10 @@
+.fomaciones__frente{
+    backface-visibility: hidden;
+}
+.fomaciones__atras{
+    transform: rotateY(180deg);
+    visibility: visible;
+    position: fixed;
+    padding: 1em;
+    transition: 1s;
+}

@@ -1,0 +1,7 @@
+.menu__item{
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+}
+.menu__item:last_child .menu__link{
+    margin-right: 0;
+}

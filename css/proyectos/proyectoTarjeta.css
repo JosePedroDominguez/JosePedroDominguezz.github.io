@@ -1,0 +1,8 @@
+.proyecto__tarjeta{
+    width: 80%;
+    margin: 0 auto;
+    align-items: flex-start;
+    display: flex;
+    padding: 4em 0;
+    align-items: center;    
+}

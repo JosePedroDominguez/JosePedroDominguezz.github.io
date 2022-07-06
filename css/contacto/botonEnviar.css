@@ -1,0 +1,10 @@
+.button__enviar{
+	display: block;
+	background-color: rgb(217, 220, 214);
+	padding: 10px 45px 10px 45px;
+	border: 0;
+	font-size: 1em; 
+	color: 	rgb(13, 13, 13);
+	font-family: 'Poppins', sans-serif;
+ 
+}

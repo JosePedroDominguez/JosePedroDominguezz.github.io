@@ -1,0 +1,11 @@
+
+.fomaciones__frente{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;    
+}
+.fomaciones__atras{
+    backface-visibility: hidden;
+}

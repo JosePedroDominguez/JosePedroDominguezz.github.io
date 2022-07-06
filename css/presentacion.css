@@ -1,0 +1,12 @@
+.presentacion{
+   
+
+    align-items: center;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 90vh;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 90%;
+    
+}

@@ -1,0 +1,8 @@
+.proyecto__imagen{
+    width: 50%;
+    margin-right: 2em;
+}
+.proyecto__imagen:hover{
+    width: 110%;
+    transition: 500ms;    
+}

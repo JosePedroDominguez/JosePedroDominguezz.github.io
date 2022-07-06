@@ -1,0 +1,11 @@
+.input{
+    margin-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box; 
+    border: none; 
+    color: #525c66; 
+    font-size: 1em;
+    resize: none; 
+}
